@@ -12,6 +12,4 @@ func main() {
 	}
 }
 
-func foo() {
-	fmt.Println("foo func")
-}
+
